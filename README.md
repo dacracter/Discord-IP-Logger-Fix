@@ -5,5 +5,3 @@ I just took it and fixed the errors and everything.
 I also provided index.php, that can be used for phishing.
 
 # FOR EDUCATIONAL PURPOSES ONLY!
-Don't abuse this! ^
-                  |
